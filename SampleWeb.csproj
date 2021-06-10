@@ -70,6 +70,7 @@
     <Content Include="About.html" />
     <Content Include="Contact.html" />
     <Content Include="Home.html" />
+    <Content Include="OurStyle.css" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
